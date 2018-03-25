@@ -9,3 +9,5 @@ Este é repositório teste para verificar como o Git funciona
 Saiba mais no link [willianjusten.com.br](http://willianjusten.com.br)
 
 Cursos Udemy
+
+Fazendo push após atualização
